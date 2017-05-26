@@ -1,0 +1,665 @@
+{
+"BaseResponse": {
+"Ret": 0,
+"ErrMsg": ""
+}
+,
+"Count": 11,
+"ContactList": [{
+"Uin": 0,
+"UserName": "filehelper",
+"NickName": "文件传输助手",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=623871415&username=filehelper&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 1,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "",
+"VerifyFlag": 0,
+"OwnerUin": 0,
+"PYInitial": "WJCSZS",
+"PYQuanPin": "wenjianchuanshuzhushou",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "",
+"City": "",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "fil",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@95de1a5f526a90844c0337835c7f9398",
+"NickName": "微信运动",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=644970173&username=@95de1a5f526a90844c0337835c7f9398&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "也许你早已习惯一个人运动的孤独，却也偶尔渴望得到赞赏。加入微信运动，和朋友一起点赞互动、抢占封面，分享运动的快乐。",
+"VerifyFlag": 24,
+"OwnerUin": 0,
+"PYInitial": "WXYD",
+"PYQuanPin": "weixinyundong",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "广东",
+"City": "广州",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@ba15e8c9e537d3eaec23d37581548902",
+"NickName": "内蒙古工业大学招生就业",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=623872517&username=@ba15e8c9e537d3eaec23d37581548902&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "招生就业指导及服务",
+"VerifyFlag": 24,
+"OwnerUin": 0,
+"PYInitial": "NMGGYDXZSJY",
+"PYQuanPin": "neimenggugongyedaxuezhaoshengjiuye",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "内蒙古",
+"City": "呼和浩特",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@d7112cf4ccbbf9ad4c2a205845bc60c4",
+"NickName": "内蒙古华图",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=621471039&username=@d7112cf4ccbbf9ad4c2a205845bc60c4&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "第一时间发布最新内蒙古各地招考信息，第一时间在线解译考生疑问，华图祝您一路成“公”！",
+"VerifyFlag": 24,
+"OwnerUin": 0,
+"PYInitial": "NMGHT",
+"PYQuanPin": "neimengguhuatu",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "内蒙古",
+"City": "呼和浩特",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@f8bc3f69564dba0116e1c0a1856d903a71d0ac1c343feb3e0c8444b981576254",
+"NickName": "环球人物杂志",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=621470991&username=@f8bc3f69564dba0116e1c0a1856d903a71d0ac1c343feb3e0c8444b981576254&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "以人物记录时代",
+"VerifyFlag": 24,
+"OwnerUin": 0,
+"PYInitial": "HQRWZZ",
+"PYQuanPin": "huanqiurenwuzazhi",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "北京",
+"City": "朝阳",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@0151dbd8f17acbbe201361bfae545717",
+"NickName": "呼和浩特移动微厅",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=628651634&username=@0151dbd8f17acbbe201361bfae545717&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "关注移动最新资讯，了解呼市最热新闻，做最炫达人！",
+"VerifyFlag": 24,
+"OwnerUin": 0,
+"PYInitial": "HHHTYDWT",
+"PYQuanPin": "huhehaoteyidongweiting",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "内蒙古",
+"City": "呼和浩特",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@7718293ce9dd6bc8c800ee9906263b7f",
+"NickName": "内蒙古工业大学学生会",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=626260800&username=@7718293ce9dd6bc8c800ee9906263b7f&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "工大的同学们，好消息，内工大学生会官方微信开通啦！！学校新鲜事，有趣事，全在这里，喜欢就收听吧！！ 支持主页君就把这个微信公共主页推荐给你的好友吧，你们的支持是主页君更新的动力！！",
+"VerifyFlag": 8,
+"OwnerUin": 0,
+"PYInitial": "NMGGYDXXSH",
+"PYQuanPin": "neimenggugongyedaxuexueshenghui",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "内蒙古",
+"City": "呼和浩特",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@0e42ca33d78d50da8c6ad8d11268edcf137886ef4d998fe9c26a30824915a2a8",
+"NickName": "哇咔咔 <span class=\"emoji emoji1f4a4\"></span>",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=644971034&username=@0e42ca33d78d50da8c6ad8d11268edcf137886ef4d998fe9c26a30824915a2a8&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 1,
+"Signature": "啦啦啦",
+"VerifyFlag": 0,
+"OwnerUin": 0,
+"PYInitial": "WKKSPANCLASSEMOJIEMOJI1F4A4SPAN",
+"PYQuanPin": "wakakaspanclassemojiemoji1f4a4span",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 4197,
+"Province": "天津",
+"City": "",
+"Alias": "",
+"SnsFlag": 1,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "fmessage",
+"NickName": "朋友推荐消息",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=490011&username=fmessage&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "",
+"VerifyFlag": 0,
+"OwnerUin": 0,
+"PYInitial": "PYTJXX",
+"PYQuanPin": "pengyoutuijianxiaoxi",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 32,
+"Province": "",
+"City": "",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "fme",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@e0365306ef36c0090e32402bce41df4e",
+"NickName": "内蒙古工业大学会话",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=642865734&username=@e0365306ef36c0090e32402bce41df4e&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 0,
+"Signature": "消息服务，帮你在微信中接收企业内部聊天消息。",
+"VerifyFlag": 8,
+"OwnerUin": 0,
+"PYInitial": "NMGGYDXHH",
+"PYQuanPin": "neimenggugongyedaxuehuihua",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 0,
+"Province": "",
+"City": "",
+"Alias": "",
+"SnsFlag": 0,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "gh_",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+,{
+"Uin": 0,
+"UserName": "@f1ee4e2e31f063dd7f3ee2965ff6d6a4003d34b20454732d2e5e297d07aa617a",
+"NickName": "须臾",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=644970372&username=@f1ee4e2e31f063dd7f3ee2965ff6d6a4003d34b20454732d2e5e297d07aa617a&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ContactFlag": 3,
+"MemberCount": 0,
+"MemberList": [],
+"RemarkName": "",
+"HideInputBarFlag": 0,
+"Sex": 1,
+"Signature": "",
+"VerifyFlag": 0,
+"OwnerUin": 0,
+"PYInitial": "XY",
+"PYQuanPin": "xuyu",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"StarFriend": 0,
+"AppAccountFlag": 0,
+"Statues": 0,
+"AttrStatus": 99813,
+"Province": "MG",
+"City": "",
+"Alias": "",
+"SnsFlag": 17,
+"UniFriend": 0,
+"DisplayName": "",
+"ChatRoomId": 0,
+"KeyWord": "",
+"EncryChatRoomId": "",
+"IsOwner": 0
+}
+],
+"SyncKey": {
+"Count": 4,
+"List": [{
+"Key": 1,
+"Val": 644970859
+}
+,{
+"Key": 2,
+"Val": 644971055
+}
+,{
+"Key": 3,
+"Val": 644971044
+}
+,{
+"Key": 1000,
+"Val": 1494843121
+}
+]
+}
+,
+"User": {
+"Uin": 1474765680,
+"UserName": "@20d00073fc5e11b0f1f29d2b6ea97035",
+"NickName": "迷惘",
+"HeadImgUrl": "/cgi-bin/mmwebwx-bin/webwxgeticon?seq=1609316771&username=@20d00073fc5e11b0f1f29d2b6ea97035&skey=@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"RemarkName": "",
+"PYInitial": "",
+"PYQuanPin": "",
+"RemarkPYInitial": "",
+"RemarkPYQuanPin": "",
+"HideInputBarFlag": 0,
+"StarFriend": 0,
+"Sex": 1,
+"Signature": "",
+"AppAccountFlag": 0,
+"VerifyFlag": 0,
+"ContactFlag": 0,
+"WebWxPluginSwitch": 0,
+"HeadImgFlag": 1,
+"SnsFlag": 17
+}
+,
+"ChatSet": "filehelper,@95de1a5f526a90844c0337835c7f9398,@ba15e8c9e537d3eaec23d37581548902,@d7112cf4ccbbf9ad4c2a205845bc60c4,@f8bc3f69564dba0116e1c0a1856d903a71d0ac1c343feb3e0c8444b981576254,@0151dbd8f17acbbe201361bfae545717,@7718293ce9dd6bc8c800ee9906263b7f,@0e42ca33d78d50da8c6ad8d11268edcf137886ef4d998fe9c26a30824915a2a8,fmessage,@e0365306ef36c0090e32402bce41df4e,@f1ee4e2e31f063dd7f3ee2965ff6d6a4003d34b20454732d2e5e297d07aa617a,@@d886f9caa2631e883ffaa006da797f1d88903e3f6f410007ee20f320e20ad937,@607a20808bd3783c82033a2018e9d27d,",
+"SKey": "@crypt_2509ac5e_5a2046163240e5e3dc08fc76c364fcd9",
+"ClientVersion": 637863732,
+"SystemTime": 1494854293,
+"GrayScale": 1,
+"InviteStartCount": 40,
+"MPSubscribeMsgCount": 7,
+"MPSubscribeMsgList": [{
+"UserName": "@ba15e8c9e537d3eaec23d37581548902",
+"MPArticleCount": 8,
+"MPArticleList": [{
+"Title": "【就业政策】什么是公益性岗位社会保险补贴？",
+"Digest": "问：什么是公益性岗位社会保险补贴？答：按照《财政部、人力资源社会保障部关于进一步加强就业专项资金管理有关问题",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCmPWpxk2ZYtw2AvCRVj1eu8UutMv7KWtl5HZpIBF9ibbqLB2607KqyAQ/640?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=1&sn=311c2757d4a4a431a09586f8a841863b&chksm=8ba27b2bbcd5f23d41c32294088ae50c94f605d32f325406d8b2b3ee1aa31873e28646c6a9fc&scene=0#rd"
+}
+,{
+"Title": "【我毕业于内工大】王立秋",
+"Digest": "我叫王立秋，内蒙古工业大学2015届电子信息科学与技术专业毕业生。 时光荏苒，转眼间，我已经离开工大快两年了",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCia2SEcVL1kkkCgicCnmyknMlWeYOolm3Wno7oLEDryYbo77Uk05v2QPA/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=2&sn=6041b7f604cc55ffb7d71c077e16fc21&chksm=8ba27b2bbcd5f23d4f829e79fbbe260f2951893753b4dcacb5530fe92e5e470ad8294adc924b&scene=0#rd"
+}
+,{
+"Title": "【你会爱上内工大】校园风光",
+"Digest": "第三教学楼图书馆科学楼红楼植霖楼篮球场操场",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCITR0vOQcR1ku9JqmRcydIcZwNrJxkicV4icE8icMhORtQwPPpmWBP4OoA/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=3&sn=8bd765950107498c4c181aafd25d5458&chksm=8ba27b2bbcd5f23d32f5193b84b1bef32356bc76fbe5a39049555f821788b2983fc331805c96&scene=0#rd"
+}
+,{
+"Title": "【5月17日专场】托肯恒山科技（广州）有限公司",
+"Digest": "托肯恒山科技（广州）有限公司一、公司简介托肯恒山科技（广州）有限公司是一家由美国500强企业都福集团流体事业",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oClLz33picG6q68CKlrhbcvj1mFXvR5ZdjNvf94PuP6VHDjsmuaGYiaDNg/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=4&sn=1345e0204271f872f8a22ef9575848b3&chksm=8ba27b2bbcd5f23dfba91bc810be78ed6456ad2bd6fe1209a7091e6fff7bb18b9b4dc0dcc95c&scene=0#rd"
+}
+,{
+"Title": "【5月22日专场】河北易居金岳房地产经纪有限公司",
+"Digest": "河北易居金岳房地产经纪有限公司一、公司简介易居中国——中国房地产流通服务领域的领导者和整合者，是中国首个提出",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oClLz33picG6q68CKlrhbcvj1mFXvR5ZdjNvf94PuP6VHDjsmuaGYiaDNg/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=5&sn=0ce3db0517a96834390d360e6584ba21&chksm=8ba27b2bbcd5f23d025015b5f97f6b2d8bfb113cfd04f1030f1e06a826e4612276fa4dca3f12&scene=0#rd"
+}
+,{
+"Title": "【校园招聘】北京正商书院文化有限公司",
+"Digest": "北京正商书院文化有限公司一、公司简介正商书院成立于2010年，总部设在北京大学，是服务于企业家的教育传播平台",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCfSxEIsoGJcdveNv19nxvAVgibKEGibnQrtjJS9lVequQVmguzluupODg/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=6&sn=69ea71e1106d007f54a8527da112e59c&chksm=8ba27b2bbcd5f23d2022898f518815b05b71c8575dc2636b8bdd10c3433be2fdf4a7d025d863&scene=0#rd"
+}
+,{
+"Title": "【校园招聘】浙江省标准化研究院",
+"Digest": "浙江省标准化研究院一、招聘单位浙江省标准化研究院：浙江省质量技术监督局下属公益一类事业单位，预算形式为财政适",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCfSxEIsoGJcdveNv19nxvAVgibKEGibnQrtjJS9lVequQVmguzluupODg/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=7&sn=564b3a4f6f8761bc5184caf199fdb9e0&chksm=8ba27b2bbcd5f23d893e1c034d35bf0c55d436214d3ecac0d49d632bf43522788dbfc7157fb3&scene=0#rd"
+}
+,{
+"Title": "【校园招聘】内蒙古恒东房地产开发有限责任公司",
+"Digest": "内蒙古恒东房地产开发有限责任公司一、公司简介内蒙古恒东房地产开发有限责任公司，创建于2010年，主要专注于城",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/RfVtdyl0Z9xOOUhQgaTNBpUmDy4Iu7oCfSxEIsoGJcdveNv19nxvAVgibKEGibnQrtjJS9lVequQVmguzluupODg/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MzA5NDUwNjI5OQ==&mid=2652587903&idx=8&sn=4fda92552e8d7ec3fc02a18db7fa0e9e&chksm=8ba27b2bbcd5f23de0490f505cbccf6d0c59b57fe9fda81395046bab06d06dc1fb70b210c9dc&scene=0#rd"
+}
+],
+"Time": 1494846194,
+"NickName": "内蒙古工业大学招生就业"
+}
+,{
+"UserName": "@d7112cf4ccbbf9ad4c2a205845bc60c4",
+"MPArticleCount": 8,
+"MPArticleList": [{
+"Title": "内蒙古公务员成绩或于5月18日左右公布",
+"Digest": "内蒙古公务员阅卷工作已结束，成绩即将公布。",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSZvs3xdmTnP0JV7FNUn02sW39AXnolMH6d93gQKONr4RPSia6g2DphHQ/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=1&sn=b5028cce87123adcd07dd39dd49ab8d8&chksm=beb73b6e89c0b2782c073a7ecee8b7cda1f92062223ac704389bf3e25069ecf061ebbfc0bce5&scene=0#rd"
+}
+,{
+"Title": "面试名师 | 风流倜傥 才貌双全，上课养眼还轻松！",
+"Digest": "面试名师抢先约,100元抵1000元面试学费",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSyCzTf8hJicdb0JRqk7hTDruhic1qIoYN7c4OqB103tiagfc5xv1xxicJQg/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=2&sn=f8dc36563aa0bcb2f38a1c30d01a95dd&chksm=beb73b6e89c0b27803def0c16e1cc1a40a0e2f3b44087f03fe630ce3124e1412a4a03b654e71&scene=0#rd"
+}
+,{
+"Title": "招44人 | 土右旗  达拉特旗学校都缺人！",
+"Digest": "更多招聘信息请关注内蒙古华图（nmghuatu）",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSAxjicp83LBgcaTH9xrNm8HFUVahfIGjTEBibPsX0saEia2embXDcz8NFw/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=3&sn=73e7c884d090f625bae0c67e5326361a&chksm=beb73b6e89c0b2788a9daea054cfc4da8971a1ff607a4472022a56fad14bb99928e5063efb2a&scene=0#rd"
+}
+,{
+"Title": "招考 | 一份月薪上万的工作，你敢来挑战吗？",
+"Digest": "这个工作很有挑战性，你来吗？",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSt6b55p1eDUibFgRsYiaicNZAjMicxfAlJIbkdFNiaR5oQrS5UomAKKWOcQA/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=4&sn=1da4b0f6efe3d07e5c7e858a3314f135&chksm=beb73b6e89c0b27803b8422b498fcb56f9ebf113289dc464d216ba562736a22c65ffa08a8afe&scene=0#rd"
+}
+,{
+"Title": "招考 | 土左旗 扎鲁特旗 鄂托克旗招行政执法义务监督员",
+"Digest": "2017东胜区政府选聘行政执法义务监督员公告一、行政执法义务监督员应当具备的条件(一)拥护宪法、遵守法律，具",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSTypDE2AGqkR6RGheM4I4SGrHe267WichBHw47UsANsvlmErcWAMrSgQ/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=5&sn=a257c7952b480ca2555b1630d90b0071&chksm=beb73b6e89c0b2781ea5d252e610dd298eaf575b91864d816062c5396f5a1ee62b6a3a4f1e78&scene=0#rd"
+}
+,{
+"Title": "招聘 | 今日还有这些单位在招聘",
+"Digest": "中国刑事警察学院管理岗位急需专业技术人员招考公告一、招录计划　　共涉及2个部门、3个岗位、4人(详见附件1)",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPS5iagzT7EDU9JKPVUgFD2ibOMz32fUdZHqfyjTtVDCqyYUwLicuxm7LolQ/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=6&sn=520a4cfee8090c235968deb3612afdbd&chksm=beb73b6e89c0b2785e89f93e763ca3c1ce7a400c79858365b7b0d1d8af7e9da22cbbde480ffe&scene=0#rd"
+}
+,{
+"Title": "内蒙古教师资格证成绩查询入口(内含分数线)",
+"Digest": "马上查成绩",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSrqVjQyibCusqiaIGXydDicwbEKibpUXSySYQaTxprPicKfL6DDiaicz7HFqyA/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=7&sn=6756ae094be71a4220a4f463cea2dff9&chksm=beb73b6e89c0b2789e08c17dd41e4355449f9f1dcb0b677cb642d101c0a03c4dab9001f9d410&scene=0#rd"
+}
+,{
+"Title": "母亲节面试大礼包获奖名单公布",
+"Digest": "你，中奖了！",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/hJtaP6noyky4ibGdiayzJpcHr8V9kePOPSXofEg803urEDJKp649U2TZdDpvf9XjCpVAPWASicEA7Hs4KdggmyP2g/s640?wxtype=png/hJtaP6&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjA4MDI2MA==&mid=2649248645&idx=8&sn=389956f2a08aa1c6b2c1fa49d201eeaa&chksm=beb73b6e89c0b2788cc901c778226e535d3697ccefb751fbbcf7eadfb4b3a78451b04c845b2f&scene=0#rd"
+}
+],
+"Time": 1494845970,
+"NickName": "内蒙古华图"
+}
+,{
+"UserName": "@f8bc3f69564dba0116e1c0a1856d903a71d0ac1c343feb3e0c8444b981576254",
+"MPArticleCount": 4,
+"MPArticleList": [{
+"Title": "斗士、贤妻、女强人…这些诱人的标签背后，哪样付出是你承受得起的？",
+"Digest": "我心里可没有少女。我还是喜欢干脆利落地生活。",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/hpcO6kWnPm4QY4CgHObQ7zHKY8IGhCuw4KX3Z5DPRwMy91kEAWohrWtosyrkSTJhCPeaR1nZnu8RMUMJzXc2Fg/640?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MTAzNDI4MDc2MQ==&mid=2651656249&idx=1&sn=126b3074239b08ff39ae8d4082027bbe&chksm=0e63986f39141179b0f512142b2628625ba887eb79be21c4bfd55c759dcdde117e50fd0fd936&scene=0#rd"
+}
+,{
+"Title": "她是欧洲第一位出身平民的王储妃，还促成了儿子娶单亲妈妈",
+"Digest": "只有经历过真爱和自我成长，才能理解世人眼中不寻常的爱情。",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/hpcO6kWnPm4QY4CgHObQ7zHKY8IGhCuwjiawQsdqFDbD7ujm68tvZx87gVOica3gib2PU9SvP86HIiagZLFHxQq7BA/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MTAzNDI4MDc2MQ==&mid=2651656249&idx=2&sn=438ee2d1c88866673b7caef9b962ea99&chksm=0e63986f39141179bb1f9507ab22b574891ab4c4d0c00a39aba844a9fbf68b7bdf43d1d7142a&scene=0#rd"
+}
+,{
+"Title": "77岁爷爷用Excel画画，竟成世界级大神。从电脑小白到网红他用了整整17年……",
+"Digest": "我可能用了一个假的excel...",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/yckgcqIcJOOwEzwo6W564QMk6cBrvOlFib0yCMR3lz9JtoWONCZ3FjfyOU6RgsWyGCPmBWrXEl80k42ibM6EBdDw/640?wx_fmt=jpeg&wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MTAzNDI4MDc2MQ==&mid=2651656249&idx=3&sn=18a7fd16f34b8cad43d9699f0d47bf9f&chksm=0e63986f3914117929498ab0cb513d2ae5e9799ab76293bb01099975db17d0a0bb37d1a4a1b1&scene=0#rd"
+}
+,{
+"Title": "比特币成“勒索病毒”指定赎金？而你还不知道它是啥 | 直播预约19:00不见不散",
+"Digest": "比特币为什么能这么火？",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/hpcO6kWnPm49gvrKaVj9hGnTNgiacyuJVtkYgLknSlufW57B0RjTxFTgQYvd3QZQicqkyLKADOOF3cvfsLRic7MHw/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MTAzNDI4MDc2MQ==&mid=2651656249&idx=4&sn=c7318ac014b0a356cf17c28ba562d75c&chksm=0e63986f39141179963a62557733ec76c0f8b09bcef51f24032ceb7a28cbc114b89656fa18e4&scene=0#rd"
+}
+],
+"Time": 1494845675,
+"NickName": "环球人物杂志"
+}
+,{
+"UserName": "@0151dbd8f17acbbe201361bfae545717",
+"MPArticleCount": 2,
+"MPArticleList": [{
+"Title": "10元1GB畅爽3天，特惠流量限量发送！！！",
+"Digest": "小伙伴们经常逛天猫吗？ 没逛过无所谓小编以人民的名义告诉你天猫旗舰店福利大曝光各种优惠陆续来袭~超大流量包供",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/TyyaJWXEZM3YxScWm2C4pEkrrQRbjRpumFqictTiaYaYUvq9qLp2RHnzrJ1uY9Bboz9XIdxJ6Qicaw03xcJTYxslg/640?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MTA0NzEyOQ==&mid=2655613554&idx=1&sn=f9938c8ee30bdbf41aa686f866951fcd&chksm=bd065ec48a71d7d23072856ba3aee27783d4dd1c16bd66302d7d790f531ccc8a94e85be7d68b&scene=0#rd"
+}
+,{
+"Title": "小红车也要来呼市啦！不过小黄车被城管约谈了， 为啥？",
+"Digest": "大伙最近都在追什么剧啊？去年火爆荧屏的都市女性励志情感剧《欢乐颂》迎来了第二季。虽然才播出几集，但是据可靠消",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/TyyaJWXEZM3YxScWm2C4pEkrrQRbjRpuStxPIcLtvdU5q04aHDE9e3hP8KRjtNYiaCaPFjoQQR6PqQCw3YlMtCw/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MTA0NzEyOQ==&mid=2655613554&idx=2&sn=760c9646ff047de8719309714408125e&chksm=bd065ec48a71d7d2b4efc10b8d192d7c07b60f27fb73598bcabd6eb176e853a70fe880939b88&scene=0#rd"
+}
+],
+"Time": 1494845086,
+"NickName": "呼和浩特移动微厅"
+}
+,{
+"UserName": "@7718293ce9dd6bc8c800ee9906263b7f",
+"MPArticleCount": 5,
+"MPArticleList": [{
+"Title": "内蒙古工业大学第二十五届二次学生委员会中期调整",
+"Digest": "内蒙古工业大学第二十五届二次学生委员会中期调整",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/rGvnjxTrwxGUbrJ147uLmJUtyuCanNLickUD2ic6koQibAAfpicHA9cdBicwrN6N09PGa3qLY9QbI9oXH4ibtBDcYaXw/640?wxtype=png&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5NDE0NjM0MA==&mid=2650664642&idx=1&sn=da6f5772deea8527ce515eec44735303&chksm=be857f8989f2f69faf7074642dd678fcc9e9db4659daa32db235cd6d27893ba9afca5c10e38b&scene=0#rd"
+}
+,{
+"Title": "【工大周刊】一周新闻速递览第六期",
+"Digest": "聚焦国际1朝鲜回应“美韩暗杀金正恩”：要掀起朝鲜式反恐据朝中社11日报道，针对美国中央情报局和韩国国家情报院",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_png/rGvnjxTrwxHsSTbpMg7VEPvPgoRA4Q3lDpMUfELMFD68JwSy2FoWLNPotyicw8Xb278jOu7m94TheU8SS7ntehA/300?wxtype=png&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5NDE0NjM0MA==&mid=2650664642&idx=2&sn=8da611c75398fb9da1885b70ac4048c4&chksm=be857f8989f2f69f7aa9e5a38e9cd027f8a2967a81d1290a9c5121804367f6fdf5f34f739b96&scene=0#rd"
+}
+,{
+"Title": "【聚焦时事】你有一份朋友圈的邀请",
+"Digest": "5月14日、15日，“一带一路”国际合作高峰论坛在北京举行。",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/rGvnjxTrwxHsSTbpMg7VEPvPgoRA4Q3lMqViaye2JLfVwHqNwUWFLRN3IHNib4Y2O5Rm1ic9JNibsgAf2NDvOiatTkw/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5NDE0NjM0MA==&mid=2650664642&idx=3&sn=c7572d652687cc7059df605713b5db76&chksm=be857f8989f2f69f7fb094e0245c84617c39e0e171b9b193558c98b73ffd017e9f0c8b0718ff&scene=0#rd"
+}
+,{
+"Title": "【特别关注】全球病毒爆发 ， 然而表情包却来了",
+"Digest": "老哥稳！但是毕竟正逢毕业季，大家手头重要文件也比较多还是注意看看下面这些内容吧这是什么病毒？5月12日，多所",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/2gTiaNGUQCuVXIf19EeS9hwyJXAkunvH8FW2iboE0K2tXyj5zvMnU4lo1AHTIoa1PIZ1fxSo8Ls7bFvPXcRibKH6A/640?wx_fmt=jpeg&tp=webp&wxfrom=0&wx_lazy=1&wxtype=jpeg|0|0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5NDE0NjM0MA==&mid=2650664642&idx=4&sn=da9e7a88ff7e286ac6a73c969da9e127&chksm=be857f8989f2f69fa85ee34e5ede9384c8bd2e8a0b4bc5a41de5ac77ae980213d9a78d6de716&scene=0#rd"
+}
+,{
+"Title": "【青春荐读】用四年告白，用最后一个月告别",
+"Digest": "小小寝室里的一千多个日日夜夜多想陪伴能更久更久一点却始终躲不过分离记得第一眼遇见你们的样子更记得之后那些数不",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/l4XWDrFqhcI35UC4HKeNuWrNYn1nJTxYujTnqS2GozPAVqu20U0xFAIewPPib6t6RnniaGWZauP1mdJoN73u2uNw/300?wxtype=jpg/l4XWDr&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5NDE0NjM0MA==&mid=2650664642&idx=5&sn=172459c01d7be3cbdf29ad77eda7468d&chksm=be857f8989f2f69f6bdad238acde0f33fb622b66f34c81315b1d0466fdd0d0ef58f2687f9408&scene=0#rd"
+}
+],
+"Time": 1494824193,
+"NickName": "内蒙古工业大学学生会"
+}
+,{
+"UserName": "@607a20808bd3783c82033a2018e9d27d",
+"MPArticleCount": 4,
+"MPArticleList": [{
+"Title": "写给妈妈的一封情书​",
+"Digest": "有一种爱被世人所赞颂，有一种爱可以让人每时每刻都感受到它所带来的温热。这种爱就是母爱。它像火红的太阳光芒四射",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/95ARIkgRnD8A9z5JuRC2hHuaGqvia9RhJTtvAqtTLyU4PEdtcRVfRTZh0elL6SQBFXXSuMZd83rsziaIm6LyXdBQ/640?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjAxNzU2MA==&mid=2652323530&idx=1&sn=98c89cbbd74347fd9c9f3adfc6a3fbe8&chksm=bd4f233d8a38aa2b001d5f02681ea6746b044f8c52810f37d03e0328702d1148659fdcb8563e&scene=0#rd"
+}
+,{
+"Title": "对不起，我不想留任学生干部了……",
+"Digest": "对不起，我不想留任学生干部了舍友在追剧时，我在写策划舍友在逛街时，我在开部门会议舍友坐在各种晚会拿着荧光棒当",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/95ARIkgRnD8A9z5JuRC2hHuaGqvia9RhJQsXLpnnGeFhaUf0iaQbK5QA6j6z7uFiadVA6uCMglsiauQocwsM9YvKWQ/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjAxNzU2MA==&mid=2652323530&idx=2&sn=b5ed55eeeb331594fe1c195bb730b9d1&chksm=bd4f233d8a38aa2b5bd5f1ce4d275135a0e0726aa44e7733da9542152c3238b2874a27e01d98&scene=0#rd"
+}
+,{
+"Title": "一学一做·学院篇|材料科学与工程学院举办党团知识竞赛",
+"Digest": "材料科学与工程学院举办党团知识竞为迎接中国共产党第十九次全国代表大会的胜利召开，庆祝内蒙古自治区成立70周年",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/jAwgp1KicTf7W2c2Jb2epujs1tibruMPyGjyNCicicAffpRMqbdXice7ZRsVvicCR9YQmoYQzial07VA2pDeyVXq6G6Qg/640?wxtype=jpg/jAwgp1&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjAxNzU2MA==&mid=2652323530&idx=3&sn=535d4c778bbf4863bd54d538d044a4ab&chksm=bd4f233d8a38aa2b270904a9d461b453659796431b575204efb84d294b1012549bc90632b3c7&scene=0#rd"
+}
+,{
+"Title": "70·号|草原英雄 殷玉珍：给7万亩滚滚黄沙穿上层层绿衣",
+"Digest": "护理树苗殷玉珍（左四）向前来参观的人员介绍经验造林航拍图（资料图片）她32年的坚守，让7万多亩沙地变成了绿地",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/95ARIkgRnD8A9z5JuRC2hHuaGqvia9RhJmVmlRY4cNRfCPTaPkzAdgQnymxgdUtI1ukWuQ4wgCqAqic9TgsWemOw/300?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MjM5MjAxNzU2MA==&mid=2652323530&idx=4&sn=e889cd70b60b3fcd72b83618ab1ea701&chksm=bd4f233d8a38aa2bac7ff28e9b92d63f11b50c2d060469e595e08ab766db508e3466a08d23da&scene=0#rd"
+}
+],
+"Time": 1494727539,
+"NickName": "内蒙古工业大学团委"
+}
+,{
+"UserName": "@f8bc3f69564dba0116e1c0a1856d903a71d0ac1c343feb3e0c8444b981576254",
+"MPArticleCount": 1,
+"MPArticleList": [{
+"Title": "新刊推介 | 徐志摩，被隐去的另一面",
+"Digest": "2017年第10期《环球人物》杂志《徐志摩，被隐去的另一面》将于5月16日上市",
+"Cover": "http://mmbiz.qpic.cn/mmbiz_jpg/hpcO6kWnPm4bC6X3b9xC8viaJicVlMeNPNGQO1DZ89UpWWgF17BpEF3CREkt5CCBz8JHduFsDks0yJxFp4fm2nTQ/640?wxtype=jpeg&wxfrom=0",
+"Url": "http://mp.weixin.qq.com/s?__biz=MTAzNDI4MDc2MQ==&mid=2651656201&idx=1&sn=5a377753c65709add772b1edaa8e91d4&chksm=0e63985f391411491ca89a0b628386a2d7881bb6ac5a3a56552d03bd47be358700aeaa4ced60&scene=0#rd"
+}
+],
+"Time": 1494726315,
+"NickName": "环球人物杂志"
+}
+],
+"ClickReportInterval": 600000
+}
