@@ -82,8 +82,8 @@ def login(name, passwd):
     # print(url2_mes.text)
 if __name__ == '__main__':
     i = 1
-    name = '201420201056'
-    passwd = '140181199508181419'
+    name = '***'
+    passwd = '***'
     login(name, passwd)
 
 
