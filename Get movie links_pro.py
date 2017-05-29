@@ -9,7 +9,7 @@ hrefs = []
 data = []
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36'}
-for i in range(60, 80):
+for i in range(160, 162):
     web_list = str("http://www.dytt8.net/html/gndy/dyzz/list_23_"+str(i)+".html")
     print(web_list, end=" , ")
     r = urllib.request.Request(web_list, headers=headers)
